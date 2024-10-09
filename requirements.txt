@@ -1,1 +1,3 @@
 prettytable
+Flask
+gunicorn
